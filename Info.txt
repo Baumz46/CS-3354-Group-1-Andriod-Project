@@ -1,0 +1,7 @@
+Topic: Contact Manager
+
+To do:
+  1. write natural-language specification
+  2. draw Use-case diagram
+  3. draw class diagram
+  4. draw seqence diagram for 2 cases.
