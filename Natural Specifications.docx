@@ -1,0 +1,17 @@
+Natural Language Specifications
+
+1.1	It shall have buttons to view, add, edit and delete contacts.
+1.2	It shall support multiple phone numbers for each contact.
+1.3	It shall have a button for adding a photo image to a contact.
+1.4	It shall be able to search through list of contacts by typing in contact names into a search bar.
+1.5	It shall be able to blacklist contacts. Blacklist means that the user will not receive text messages and phone calls from contacts that have been blacklisted.
+1.6	It shall have buttons for directly calling or sending text messages to a contact from the contact view.
+1.7	It shall be able to create Contact groups, which is a group of contacts. Used to organize contacts. Example: forming a contact group for a family.
+1.8	There shall be buttons for adding and removing contacts from contact groups.
+1.9	Shall be able to sort the contacts by names or group names in alphabetic order.
+1.10	Should have option to export contacts to file on SD card.
+1.11	Should have option to import contacts from file on SD card.
+1.12	 It shall have option to import contacts from the stock contact app.
+1.13	It should have option to import contacts from social media websites
+1.14	Shall show contact’s name when the contact is calling, being called sending message or receiving message when using the stock app.
+1.15	Shall have the ability to Zoom in/out and scroll where and whenever necessary.
