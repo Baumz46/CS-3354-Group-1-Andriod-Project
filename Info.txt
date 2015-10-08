@@ -5,3 +5,4 @@ To do:
   2. draw Use-case diagram
   3. draw class diagram
   4. draw seqence diagram for 2 cases.
+  5.
