@@ -87,12 +87,27 @@
             style="@style/ContactLabelTextView"/>
 
         <TextView android:id="@+id/zipTextView"
-            android:layout_row="6"
-            android:layout_column="1"
+
             style="@style/ContactTextView"/>
+
+        <Button android:id="@+id/backButton"
+            android:layout_row="7"
+            android:layout_column="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_name"
+            android:imeOptions="actionNext"
+            style="@style/ContactLabelTextView"
+            android:text="@string/returnList" />
+
+
 
 
     </GridLayout>
+
+
+
+
 
 </ScrollView>
 </LinearLayout>
